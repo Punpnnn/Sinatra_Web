@@ -1,4 +1,5 @@
-source "https://rubygem.org"
-
+source "https://rubygems.org"
 gem "sinatra"
-gem "shotgun"
+#gem "shotgun"
+gem "geocoder"
+gem "timezone"
